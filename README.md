@@ -1,7 +1,7 @@
 ![logoza ru (3)](https://user-images.githubusercontent.com/107112651/208922419-3a8955f0-e340-4547-a758-c34ca6866700.png)
 
 
-### Programmer student from Sestroretsk
+#### Programmer student from Sestroretsk
 
 ### Languages and Tools:
 
