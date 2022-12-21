@@ -1,4 +1,4 @@
-![logoza ru (1)](https://user-images.githubusercontent.com/107112651/208921682-918a4a02-7d6b-4730-a359-2bfb7656dc37.png)
+![logoza ru (2)](https://user-images.githubusercontent.com/107112651/208922042-c8c35a0b-117a-4678-8eaa-5823c712a1b9.png)
 
 # I`m a student programmer
 
