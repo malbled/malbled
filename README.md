@@ -1,9 +1,9 @@
 ![logoza ru (3)](https://user-images.githubusercontent.com/107112651/208922419-3a8955f0-e340-4547-a758-c34ca6866700.png)
 
 
-# Programmer student from Sestroretsk
+### Programmer student from Sestroretsk
 
-# Languages and Tools:
+### Languages and Tools:
 
 ![C++](https://img.shields.io/badge/-C++-9791c1?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C_Sharp-9791c1?style=for-the-badge&logo=CSharp&logoColor=611f74)
@@ -19,4 +19,9 @@
 ![.Net](https://img.shields.io/badge/-Entity_Framework-9791c1?style=for-the-badge&logo=.net&logoColor=000000)
 
 
-Follow Me
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/malbled)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/pogrebatel)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/malbled)
+
+
