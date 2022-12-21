@@ -8,7 +8,7 @@
 
 
 ![C++](https://img.shields.io/badge/-C++-f7ebf9?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C_Sharp-f7ebf9?style=for-the-badge&logo=CSharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C_Sharp-f7ebf9?style=for-the-badge&logo=CSharp&logoColor=611f74)
 ![SQL](https://img.shields.io/badge/-SQLite-f7ebf9?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-f7ebf9?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
 ![Python](https://img.shields.io/badge/-Python-f7ebf9?style=for-the-badge&logo=Python&logoColor=3776AB)
