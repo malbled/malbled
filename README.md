@@ -5,9 +5,9 @@
 
 # Languages:
 
-![C#](https://img.shields.io/badge/-C#-f7ebf9?style=for-the-badge&logo=C23%&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-C#-f7ebf9?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-f7ebf9?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/-SQL-f7ebf9?style=for-the-badge&logo=SQL&logoColor=2e93d3)
+![SQL](https://img.shields.io/badge/-SQL-f7ebf9?style=for-the-badge&logo=SQLite&logoColor=2e93d3)
 
 
 Follow Me
