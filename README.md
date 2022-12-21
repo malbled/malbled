@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-f7ebf9?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C-f7ebf9?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![SQL](https://img.shields.io/badge/-SQLite-f7ebf9?style=for-the-badge&logo=SQLite&logoColor=003B57)
-![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-f7ebf9?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-f7ebf9?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
 
 
 Follow Me
