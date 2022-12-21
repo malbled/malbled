@@ -14,9 +14,9 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-9791c1?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![WordPress](https://img.shields.io/badge/-WordPress-9791c1?style=for-the-badge&logo=WordPress&logoColor=21759B)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-9791c1?style=for-the-badge&logo=KaliLinux&logoColor=557C94)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-9791c1?style=for-the-badge&logo=KaliLinux&logoColor=000000)
 ![NuGet](https://img.shields.io/badge/-NuGet-9791c1?style=for-the-badge&logo=NuGet&logoColor=004880)
-![.Net](https://img.shields.io/badge/-Entity_Framework-9791c1?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![.Net](https://img.shields.io/badge/-Entity_Framework-9791c1?style=for-the-badge&logo=.net&logoColor=000000)
 
 
 Follow Me
