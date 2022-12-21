@@ -14,4 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-f7ebf9?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/-HTML5-f7ebf9?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![WordPress](https://img.shields.io/badge/-WordPress-f7ebf9?style=for-the-badge&logo=WordPress&logoColor=21759B)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-f7ebf9?style=for-the-badge&logo=KaliLinux&logoColor=557C94)
+
+
 Follow Me
