@@ -5,7 +5,7 @@
 
 # Languages and Tools:
 
-![C++](https://img.shields.io/badge/-C++-#9791c1?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-9791c1?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C_Sharp-32293c?style=for-the-badge&logo=CSharp&logoColor=611f74)
 ![SQL](https://img.shields.io/badge/-SQLite-32293c?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-32293c?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
